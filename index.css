@@ -1,0 +1,43 @@
+header img {
+  width: 300px;
+  margin-top: 20px;
+  margin-left: 34%;
+}
+
+div {
+  margin: auto;
+  width: 40%;
+}
+
+nav {
+  text-align: center;
+  background-color: green;
+  line-height: 40px;
+  font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-left: 50px;
+}
+
+main {
+  background-color: rgb(243, 240, 240);
+}
+
+main img {
+  width: 95%;
+  margin: 2%;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  background-color: green;
+}
+
+footer {
+  background-color: rgb(213, 247, 213);
+}
